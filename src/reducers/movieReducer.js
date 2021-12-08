@@ -1,4 +1,3 @@
-import { tryStatement } from '@babel/types';
 import { ADD_MOVIE, DELETE_MOVIE } from '../actions/movieActions.js';
 import movies from './../data.js';
 
